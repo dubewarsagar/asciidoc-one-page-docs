@@ -2,6 +2,8 @@
 :toc: left
 :toc-title: Table of Contents 
 :toclevels: 4
+:imagesdir: ./images
+:footer-text: with Love from Github
 
 This is a demonstration for one page Web documentation. 
 
@@ -23,5 +25,3 @@ This is the licensing related information. This cannot be avoided.
 == Conclusion
 
 This is a demo of one page documentation. This is for local repo only.
-
-:footer-text: with  Love from Github
