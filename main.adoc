@@ -1,4 +1,4 @@
-= This is the title of the guide
+= This is the title of the guide 
 :toc: left
 :toc-title: Table of Contents 
 :toclevels: 4
@@ -23,3 +23,5 @@ This is the licensing related information. This cannot be avoided.
 == Conclusion
 
 This is a demo of one page documentation. This is for local repo only.
+
+:footer-text: with  Love from Github
