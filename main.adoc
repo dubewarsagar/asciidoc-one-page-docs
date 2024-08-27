@@ -4,6 +4,9 @@
 :toclevels: 4
 :imagesdir: ./images
 :footer-text: with Love from Github
+:numbered:
+:sectanchors:
+:sectlinks:
 
 This is a demonstration for one page Web documentation. 
 
