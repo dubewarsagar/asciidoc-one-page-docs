@@ -27,4 +27,4 @@ This is the licensing related information. This cannot be avoided.
 [[conclusion]]
 == Conclusion
 
-This is a demo of one page documentation. This is for local repo only.
+This is a demo of one page documentation. This is for gitHub repo only.
